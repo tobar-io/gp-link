@@ -1,0 +1,15 @@
+# build output
+extension/dist/
+extension/src/gplink_embedded.h
+*.pdb
+*.lib
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# local test files
+*.rpp
+*.rpp-bak
+GP-Link-tmp/
